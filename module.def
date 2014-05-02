@@ -1,0 +1,5 @@
+[Module]
+Name=fatemail
+Version=1
+Files=main.lua
+Enabled=1
